@@ -1,0 +1,17 @@
+{
+    "name": "Kawaii Mint Night",
+    "main_text_color": "rgba(228, 255, 247, 1)",
+    "italics_text_color": "rgba(169, 221, 208, 1)",
+    "quote_text_color": "rgba(255, 195, 236, 1)",
+    "blur_tint_color": "rgba(18, 31, 36, 0.78)",
+    "chat_tint_color": "rgba(24, 41, 47, 0.8)",
+    "user_mes_blur_tint_color": "rgba(29, 53, 58, 0.86)",
+    "bot_mes_blur_tint_color": "rgba(24, 45, 50, 0.84)",
+    "shadow_color": "rgba(0, 0, 0, 0.45)",
+    "border_color": "rgba(117, 255, 214, 0.65)",
+    "accent_color": "rgba(137, 255, 223, 1)",
+    "blur_strength": 8,
+    "shadow_width": 2,
+    "font_scale": 1.04,
+    "waifuMode": true
+}

@@ -1,0 +1,14 @@
+Node version: v22.20.0. Running in undefined environment. Server directory: D:\SillyTavern
+Using config path: ./config.yaml
+Using data root: ./data
+Preferring IPv4 for DNS resolution
+
+SillyTavern 1.17.0
+Running 'release' (7e5d2d7b0) - 5/2/2026, 2:31:33 AM GMT+8
+INFO: Currently not on the latest commit.
+      Run 'git pull' to update. If you have any merge conflicts, run 'git reset --hard' and 'git pull' to reset your branch.
+
+
+Compiling frontend libraries...
+webpack 5.105.4 compiled [1m[32msuccessfully[39m[22m in 12281 ms
+

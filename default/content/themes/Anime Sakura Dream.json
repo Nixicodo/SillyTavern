@@ -1,0 +1,17 @@
+{
+    "name": "Anime Sakura Dream",
+    "main_text_color": "rgba(88, 46, 70, 1)",
+    "italics_text_color": "rgba(136, 82, 113, 1)",
+    "quote_text_color": "rgba(255, 122, 168, 1)",
+    "blur_tint_color": "rgba(255, 236, 244, 0.72)",
+    "chat_tint_color": "rgba(255, 242, 248, 0.78)",
+    "user_mes_blur_tint_color": "rgba(255, 250, 252, 0.86)",
+    "bot_mes_blur_tint_color": "rgba(255, 232, 242, 0.84)",
+    "shadow_color": "rgba(255, 173, 204, 0.55)",
+    "border_color": "rgba(255, 177, 205, 0.9)",
+    "accent_color": "rgba(255, 105, 180, 1)",
+    "blur_strength": 6,
+    "shadow_width": 2,
+    "font_scale": 1.05,
+    "waifuMode": true
+}
